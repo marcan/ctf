@@ -1,4 +1,4 @@
-## Problem
+## Introduction
 
 The binary is a Game of Life simulator that accepts an arbitrary playfield
 pattern, runs 15 iterations, and then segfaults. Disassembling it reveals that
